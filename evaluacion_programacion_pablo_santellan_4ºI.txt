@@ -1,0 +1,50 @@
+pablo daniel santellan 4ºI
+					     evaluacion de programacion
+
+1)definir que es una funcion
+
+#ejercicio 1: 
+
+dada la siguiente funcion, indicar a respuesta correcta.
+
+	def suma5y7():
+		print(f"el resultado es [5+7]")
+
+__________________imprimir resultado (agregar codigo)
+
+selccionar respuesta
+O.obtenemos 5 en pantalla		O.ninguna es correcta
+O.obtenemos un error
+O.aparece un asterisco en pantalla
+O.obtenemos 12 en pantalla          CORRECTA
+
+mivariable=13
+
+def funcion(parametro):
+   variable=13
+
+   print(f"\nla variable global que hemos definido antes valia: {mivariable}")
+   
+   print(f"\nel valor de la variable local es: {variable} ")
+   
+   print(f"\nel parametro con el que llamamos a la funcion vale: {parametro}")
+
+funcion("programacion")
+
+ejercicio 2:
+
+1)indicar cual es el parametro de la funcion y la variable dentro del contexto del la funcion si son o no accesibles
+
+2)indicar cual es la variable global la variable local y el parametro
+
+3)indicar que valor toma el parametros
+
+actividades:
+
+1)la funcion no es accesible
+
+2)la variable global es mivariable = 13.
+la variable local es variable = 13.
+el parametro es ("programacio").
+
+3)el valor que toma el parametro es programacion
